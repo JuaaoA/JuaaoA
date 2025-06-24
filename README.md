@@ -1,14 +1,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=EEEEEE&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Jo%C3%A3o;Hello%2C+I'm+Jo%C3%A3o)](https://git.io/typing-svg)
+
 ---
+
 <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&duration=2500&lines=FullStack+Dev;Indie+GameDev;Godot+Engine;Unity+Engine;.NET+ASP.NET;Stack MEAN;Python;C%23;Java;JS;MySQL"/>
+
 ---
 
 ###  Sobre mim
 
--🎓  **Information Systems** - University Vila Velha
--🚀 I love Game and Fullstack development.
--🌱 now developing games with **[Godot Engine](https://godotengine.org/)** and **[Unity](https://unity.com/pt)**
+-🎓  **Information Systems** - University Vila Velha  
+-🚀 I love Game and Fullstack development.  
+-🌱 now developing games with **[Godot Engine](https://godotengine.org/)** and **[Unity](https://unity.com/pt)**  
 
 <div align="center">
 
