@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Databases
+### 🗃️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)](https://skillicons.dev)
 
 ---
