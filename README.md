@@ -3,7 +3,7 @@
 
 ---
 
-###  Sobre mim
+###  About me
 
 -🎓  **Information Systems** - University Vila Velha  
 -🚀 I love Game and Fullstack development.  
