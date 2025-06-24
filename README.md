@@ -7,7 +7,7 @@
 
 -🎓  **Information Systems** - University Vila Velha  
 -🚀 I love Game and Fullstack development.  
--🌱 now developing games with **[Godot Engine](https://godotengine.org/)** and **[Unity](https://unity.com/pt)**  
+-🌱 Now developing games with **[Godot Engine](https://godotengine.org/)** and **[Unity](https://unity.com/pt)**  
 
 <div align="center">
 
