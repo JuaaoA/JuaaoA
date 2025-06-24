@@ -3,10 +3,6 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00bfff&duration=2500&lines=FullStack+Dev;Indie+GameDev;Godot+Engine;Unity+Engine;.NET+ASP.NET;Stack MEAN;Python;C%23;Java;JS;MySQL"/>
-
----
-
 ###  Sobre mim
 
 -🎓  **Information Systems** - University Vila Velha  
